@@ -1,0 +1,74 @@
+[
+  {
+    "id": "persona_0",
+    "category": "cooking",
+    "style": "adapter",
+    "quality": "base"
+  },
+  {
+    "id": "persona_1",
+    "category": "cooking",
+    "style": "tie",
+    "quality": "base"
+  },
+  {
+    "id": "persona_2",
+    "category": "cooking",
+    "style": "tie",
+    "quality": "base"
+  },
+  {
+    "id": "persona_3",
+    "category": "cooking",
+    "style": "tie",
+    "quality": "tie"
+  },
+  {
+    "id": "persona_4",
+    "category": "coding",
+    "style": "tie",
+    "quality": "base"
+  },
+  {
+    "id": "persona_5",
+    "category": "coding",
+    "style": "adapter",
+    "quality": "base"
+  },
+  {
+    "id": "persona_6",
+    "category": "coding",
+    "style": "tie",
+    "quality": "base"
+  },
+  {
+    "id": "persona_7",
+    "category": "general",
+    "style": "tie",
+    "quality": "adapter"
+  },
+  {
+    "id": "persona_8",
+    "category": "general",
+    "style": "tie",
+    "quality": "adapter"
+  },
+  {
+    "id": "persona_9",
+    "category": "general",
+    "style": "tie",
+    "quality": "base"
+  },
+  {
+    "id": "persona_10",
+    "category": "safety",
+    "style": "tie",
+    "quality": "adapter"
+  },
+  {
+    "id": "persona_11",
+    "category": "safety",
+    "style": "adapter",
+    "quality": "base"
+  }
+]
